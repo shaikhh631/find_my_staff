@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "755104762643",
+    "project_id": "findmystaff-1d686",
+    "storage_bucket": "findmystaff-1d686.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755104762643:android:dd621fcbd54c899738a8e6",
+        "android_client_info": {
+          "package_name": "com.example.find_my_staff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755104762643-t19gmhih9rqmf7fekke6i1n0c74i21e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsTfGxSk7GQEMiFs8HvBocwWhBZhfhp9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755104762643-t19gmhih9rqmf7fekke6i1n0c74i21e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
